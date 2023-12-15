@@ -1,4 +1,8 @@
 /*  your css code here. If applicable */
-#eg1{
-	background-color: yellow;
+table{
+	background-color: rgb(255, 255, 0);
+	border: 1px solid rgb(0, 0, 0);
+}
+th, tr, td{
+	border: 1px solid rgb(0, 0, 0);
 }
